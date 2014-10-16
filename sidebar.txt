@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anj:home|Door43 (anj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anj|d43-anj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anj/archive/master.zip|d43-anj.zip]]
+
+**Recent Changes**
+{{changes>ns = anj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anj|Ethnologue data]]
+
